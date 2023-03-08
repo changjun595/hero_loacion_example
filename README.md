@@ -1,2 +1,2 @@
-# hero_loacion_example
+# hero_loacion_sample
  
