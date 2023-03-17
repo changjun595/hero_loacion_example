@@ -4,7 +4,10 @@ import 'package:flutter/material.dart';
 import '../data/locations.dart';
 import 'location_widget.dart';
 
-class LocationsWidget extends StatefulWidget {
+class
+
+
+LocationsWidget extends StatefulWidget {
   @override
   _LocationsWidgetState createState() => _LocationsWidgetState();
 }
